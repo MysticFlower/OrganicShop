@@ -2,7 +2,7 @@
 
 I have done this project while learning Angular 8 as part of a module in my academics. Angular 8 is really interesting, and I switched to development.
 This project works like an real world application. I really put all my efforts in learning 
-and finishing. I used Angular CLI, Angular Material, Firebase Database, Noje.js.
+and finishing. I used Angular CLI, Angular Material, Firebase Database, Node.js.
 You can install this project by follwing the below commands.
 
 ## Development server
